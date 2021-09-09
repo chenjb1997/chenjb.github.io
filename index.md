@@ -21,7 +21,7 @@ My current research field is Theoretical Computer Science (TCS).
 + Second Runner-up of 3rd China Collegiate Programming Contest Jilin Regional Contest, 2018	
 + Second Runner-up, Silver Medal of 45th International Collegiate Programming Contest North America Championship, 2021
 + Rank Prize of 42nd International Collegiate Programming Contest World Finals, 2018	   
-+ Gold Medal of 42nd International Collegiate Programming Contest Beijing Regional Contest		
++ Gold Medal of 42nd International Collegiate Programming Contest Beijing Regional Contest, 2017		
 + Gold Medal of 42nd International Collegiate Programming Contest East-Continent League Finals, 2017
 + Gold Medal of 43rd International Collegiate Programming Contest Xuzhou Regional Contest, 2018		 
 + Gold Medal of 44th International Collegiate Programming Contest Xuzhou Regional Contest, 2019		
