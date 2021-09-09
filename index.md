@@ -15,21 +15,21 @@ My current research field is Theoretical Computer Science (TCS).
 + [Guangzhou No.2 High School](http://www.gdgzez.com.cn/), Guangzhou, 2010 - 2016
 
 ## Awards
-+ Champion of 42nd International Collegiate Programming Contest Qingdao Onsite, 2017
++ Champion of 42nd International Collegiate Programming Contest Qingdao Regional Contest, 2017
 + Champion of 45th International Collegiate Programming Contest Southeast USA Regional, 2021
 + Champion of 15th Zhejiang Province Collegiate Programming Competition, 2018
-+ Second Runner-up of 3rd China Collegiate Programming Contest Jilin Onsite, 2018	
++ Second Runner-up of 3rd China Collegiate Programming Contest Jilin Regional Contest, 2018	
 + Second Runner-up, Silver Medal of 45th International Collegiate Programming Contest North America Championship, 2021
 + Rank Prize of 42nd International Collegiate Programming Contest World Finals, 2018	   
-+ Gold Medal of 42nd International Collegiate Programming Contest Beijing Onsite		
++ Gold Medal of 42nd International Collegiate Programming Contest Beijing Regional Contest		
 + Gold Medal of 42nd International Collegiate Programming Contest East-Continent League Finals, 2017
-+ Gold Medal of 43rd International Collegiate Programming Contest Xuzhou Onsite, 2018		 
-+ Gold Medal of 44th International Collegiate Programming Contest Xuzhou Onsite, 2019		
-+ Gold Medal of 44th International Collegiate Programming Contest Shenyang Onsite, 2019		     
++ Gold Medal of 43rd International Collegiate Programming Contest Xuzhou Regional Contest, 2018		 
++ Gold Medal of 44th International Collegiate Programming Contest Xuzhou Regional Contest, 2019		
++ Gold Medal of 44th International Collegiate Programming Contest Shenyang Regional Contest, 2019		     
 + Gold Medal of 44th International Collegiate Programming Contest East-Continent Finals, 2019	      
-+ Gold Medal of 2nd China Collegiate Programming Contest Harbin Onsite, 2017		          
++ Gold Medal of 2nd China Collegiate Programming Contest Harbin Regional Contest, 2017		          
 + Gold Medal of 2nd China Collegiate Programming Contest Finals, 2017
-+ Gold Medal of 4th China Collegiate Programming Contest Qinhuangdao Onsite, 2019	
++ Gold Medal of 4th China Collegiate Programming Contest Qinhuangdao Regional Contest, 2019	
 + Bronze Medal of National Olympiad of Informatics Finals, 2015	                            
 + Second-Class Scholarship of Elite Students in Basic Sciences, 2017-2018		
 + Second-Class Scholarship of Excellence in Research and Innovation, 2016-2017	
@@ -41,9 +41,9 @@ My current research field is Theoretical Computer Science (TCS).
 + Coach of [ByteDance Winter Trainning Camp](https://programcamp.bytedance.com/), 2020
 + Member of [SUA Progamming Competitions Problems Setter Team](https://sua.ac/)
 + Manager of [Keystone Wiki](http://keystone.wiki) (Please feel free contact me for the authority)
-+ Problem Setter of [International Collegiate Programming Contest Qingdao Onsite](https://icpc.global/regionals/finder/QingDao-2018), 2018
-+ Problem Setter of [International Collegiate Programming Contest Nanjing Onsite](https://icpc.global/regionals/finder/AR-Nannjing-2020), 2020
-+ Problem Setter of [International Collegiate Programming Contest Macau Onsite](https://icpc.global/regionals/finder/Macau-City-2020), 2021
++ Problem Setter of [International Collegiate Programming Contest Qingdao Regional Contest](https://icpc.global/regionals/finder/QingDao-2018), 2018
++ Problem Setter of [International Collegiate Programming Contest Nanjing Regional Contest](https://icpc.global/regionals/finder/AR-Nannjing-2020), 2020
++ Problem Setter of [International Collegiate Programming Contest Macau Regional Contest](https://icpc.global/regionals/finder/Macau-City-2020), 2021
 + Problem Setter of [Zhejiang Univerisity Programming Competition](http://acm.zju.edu.cn/contest-materials/zju2019/board/), 2019
 + Problem Setter of [Zhejiang Province Collegiate Programming Competition](http://acm.zju.edu.cn/zjp2019/board/), 2019
 + Problem Setter of [Shandong Province Collegiate Programming Competition](http://acm.zju.edu.cn/contest-materials/sdp2019/board/), 2019
